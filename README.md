@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @APPU-GOWDA
-- 👀 I’m interested in HACKING
-- 🌱 I’m currently learning ENGINEERING 2ND SEMISTER
-- 💞️ I’m looking to collaborate on HACKING
+- 👋 Hi, I’m @p.shashidhargowda
+- 👀 I’m interested in DATA SCIENCE 
+- 🌱 I’m currently learning DATA SCIENCE 
+- 💞️ I’m looking to collaborate on DATA SCIENCE PROJECTS 
 - 📫 How to reach me p.shashidhargowda@gmail.com
 
 <!---
